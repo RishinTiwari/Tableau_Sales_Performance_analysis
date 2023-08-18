@@ -6,11 +6,19 @@ This Tableau project focuses on analyzing sales performance through visualizatio
 
 Key Highlights:
 
-Data Harmonization: Integrated sales data from diverse sources in Tableau, ensuring accurate and uniform data for analysis.
-Sales Insights: Employed Tableau's visual tools for comprehensive sales analysis. Explored metrics like revenue, growth, and profitability across product categories, regions, and timeframes.
-Interactive Dashboards: Designed dynamic Tableau dashboards showcasing sales performance data. Equipped with filters and interactivity for users to explore insights in real-time.
-Trend Detection: Leveraged Tableau's trend analysis to spot sales trends over time. Visualized shifts in sales patterns, aiding in forecasting and decision-making.
-Geo Analysis: Utilized Tableau's mapping features to study sales geographically. Produced heat maps and bubble charts to identify sales hubs and potential growth areas.
-Performance Evaluation: Conducted cross-analysis of sales regions, products, and customers in Tableau. Highlighted disparities and growth opportunities through side-by-side visualizations.
-Compelling Storytelling: Employed Tableau for narrative-driven reports. Combined annotations and narratives for cohesive communication of insights to stakeholders.
+1. Data Integration: Integrated sales data from diverse sources in Tableau, ensuring accurate and uniform data for analysis.
+
+2. Sales Insights: Employed Tableau's visual tools for comprehensive sales analysis. Explored metrics like revenue, growth, and profitability across product categories, regions, and timeframes.
+
+3. Interactive Dashboards: Designed dynamic Tableau dashboards showcasing sales performance data. Equipped with filters and interactivity for users to explore insights in real-time.
+   
+4. Trend Detection: Leveraged Tableau's trend analysis to spot sales trends over time. Visualized shifts in sales patterns, aiding in forecasting and decision-making.
+
+5. Geo Analysis: Utilized Tableau's mapping features to study sales geographically. Produced heat maps and bubble charts to identify sales hubs and potential growth areas.
+
+7. Performance Evaluation: Conducted cross-analysis of sales regions, products, and customers in Tableau. Highlighted disparities and growth opportunities through side-by-side visualizations.
+
+8. Compelling Storytelling: Employed Tableau for narrative-driven reports. Combined annotations and narratives for cohesive communication of insights to stakeholders.
+
+
 This Tableau project showcases how data visualization can empower sales analysis. Deliverables include clean data, interactive dashboards, trend analysis, geographic insights, performance comparisons, and comprehensive reports for GitHub documentation.
